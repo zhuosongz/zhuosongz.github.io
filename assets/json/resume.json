@@ -17,13 +17,56 @@
     {
       "name": "Southern University of Science and Technology",
       "location": "Shenzhen, China",
-      "position": " Associate Professor",
+      "position": "Associate Professor",
+      "url": "https://zhuosongz.github.io",
+      "startDate": "2024-01",
+      "endDate": "Present"
+    },
+
+    {
+      "name": "Southern University of Science and Technology",
+      "location": "Shenzhen, China",
+      "position": "Assistant Professor",
       "url": "https://zhuosongz.github.io",
       "startDate": "2022-08",
-      "endDate": "Present"
+      "endDate": "2023-12"
+    },
+
+    {
+      "name": "University of California, San Diego",
+      "location": "San Diego, CA, US",
+      "position": "Visiting Assistant Professor",
+      "url": "https://zhuosongz.github.io",
+      "startDate": "2021-10",
+      "endDate": "2022-06"
+    },
+    {
+      "name": "National University of Singapore",
+      "location": "Singapore",
+      "position": "Post-doc Research Fellow",
+      "url": "https://zhuosongz.github.io",
+      "startDate": "2019-07",
+      "endDate": "2021-06"
+    },
+    {
+      "name": "University of Melbourne",
+      "location": "Singapore",
+      "position": "Post-doc Research Fellow",
+      "url": "https://zhuosongz.github.io",
+      "startDate": "2017-08",
+      "endDate": "2019-06"
     }
   ],
   "education": [
+    {
+      "institution": "Wuhan University",
+      "location": "Wuhan, China",
+      "url": "https://www.whu.edu.cn",
+      "area": "Statistics",
+      "studyType": "Bachelor",
+      "startDate": "2009-09",
+      "endDate": "2013-06"
+    },
     {
       "institution": "The Chinese University of Hong Kong",
       "location": "Hong Kong, China",

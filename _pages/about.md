@@ -6,7 +6,7 @@ subtitle: <a href='https://stat-ds.sustech.edu.cn'>Department of Statistics and 
 
 profile:
   align: right
-  image: zzs.png
+  image: zzs-large.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Associate Professor</p>

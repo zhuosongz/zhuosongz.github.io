@@ -5,9 +5,9 @@
       <div class="row">
         <div class="col-xs-4 cl-sm-4 col-md-4" style="width: 100px">
           {% if content.startDate %}
-            {% assign startDate = content.startDate | split: '–' | slice: 0, 2 | join: '.' %}
-            {% assign endDate = content.endDate | split: '–' | slice: 0, 2 | join: '.' | default: 'Present' %}
-            {% assign date = startDate | append: ' - ' %}
+            {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
+            {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
+            {% assign date = startDate | append: '' %}
             {% assign date = date | append: endDate %}
           {% else %}
             {% assign date = '' %}

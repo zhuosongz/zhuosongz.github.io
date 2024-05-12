@@ -4,13 +4,12 @@ permalink: /teaching/
 title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/teaching.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

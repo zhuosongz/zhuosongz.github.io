@@ -28,10 +28,10 @@
   contents:
     - title: Associate Professor
       institution: Southern University of Science and Technology, Shenzhen, China
-      year: 2024 -- present 
+      year: 2024 -- present
     - title: Assistant Professor
       institution: Southern University of Science and Technology, Shenzhen, China
-      year: 2022 -- 2024 
+      year: 2022 -- 2024
     - title: Visiting Professor
       institution: University of California, San Diego, California, US
       year: 2021 -- 2022
@@ -44,8 +44,6 @@
       institution: University of Melbourne
       year: 2017 -- 2019
 
-
-
 - title: Academic Interests
   type: nested_list
   contents:
@@ -57,7 +55,6 @@
 - title: Honors and Awards
   type: time_table
   contents:
-
 
 - title: Other Interests
   type: list

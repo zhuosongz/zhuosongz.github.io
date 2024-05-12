@@ -1,5 +1,1 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+张卓松，现任南方科技大学统计与数据科学系副教授、研究员。2013 年毕业于武汉大学数学与统计学院，获得理学学士学位。2017 年毕业于香港中文大学统计系，获得博士学位，之后在墨尔本大学和新加坡国立大学从事博士后研究工作，2021-2022 年在美国加州大学圣地亚哥分校担任 SEW 访问助理教授。主要从事概率极限理论、Stein 方法、随机图、统计物理及其统计应用等领域的前沿研究，积累了丰富的研究经验，研究成果先后发表在 Annals of Probability、Annals of Applied Probability、Bernoulli、Science China Mathematics 等国内外顶级学术期刊上，得到国内外专家的广泛关注与引用。

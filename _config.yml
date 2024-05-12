@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Zhuosong Zhang's Webpage # the website title (if blank, full name will be used instead)
+title: Zhuosong Zhang's Webpage (张卓松的网页) # the website title (if blank, full name will be used instead)
 first_name: Zhuosong
-middle_name: 
+middle_name: # empty 
 last_name: Zhang
 email: zhangzs3@sustech.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -74,7 +74,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: # your GitHub user name
+github_username: zhuosongz # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
@@ -162,8 +162,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  - name: # medium.com
+    rss_url: # https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections

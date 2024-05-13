@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 5
 cv_pdf: CV-Zhuosong.pdf
-description: My CV file.
+description: Please find a pdf copy at the top right of this page.
 toc:
   sidebar: left
 ---

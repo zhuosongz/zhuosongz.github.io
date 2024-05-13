@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /teachins/
+permalink: /teachings/
 description: My Teaching
 nav: true
 nav_order: 3

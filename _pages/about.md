@@ -1,8 +1,7 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='https://stat-ds.sustech.edu.cn'>Department of Statistics and Data Science, Southern University of Science and Technology</a>.
 
 profile:
   align: right
@@ -19,6 +18,8 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+
+### Basic Information
 
 I am currently an Associate Professor and Research Fellow in the Department of Statistics and Data Science, Southern University of Science and Technology. I graduated from the School of Mathematics and Statistics at Wuhan University in 2013 and obtained a bachelor's degree in science. I graduated from the Department of Statistics of the Chinese University of Hong Kong in 2017 and obtained my Ph.D degree. I also worked as a postdoctoral researcher at the University of Melbourne and the National University of Singapore, and was a SEW Visiting Assistant Professor at the University of California, San Diego from 2021 to 2022. I am interested in the fields of probability limit theory, Stein method, random graph, statistical physics and its statistical applications, etc.
 

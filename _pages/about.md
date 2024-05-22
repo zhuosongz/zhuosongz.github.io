@@ -6,18 +6,17 @@ permalink: /
 profile:
   align: right
   image: zzs-large.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Associate Professor</p>
     <p>Business School Building 334</p>
     <p>Southern University of Science and Technology</p>
     <p>Shenzhen, 518055</p>
     <p>Guangdong, China</p>
-    <p><a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=SzEjKiUsMTh4Czg_OD8uKCNlLi8_ZSgl" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 ### Basic Information

@@ -13,6 +13,7 @@ profile:
     <p>Southern University of Science and Technology</p>
     <p>Shenzhen, 518055</p>
     <p>Guangdong, China</p>
+    <p><a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=SzEjKiUsMTh4Czg_OD8uKCNlLi8_ZSgl" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
